@@ -1,2 +1,4 @@
 #잔디 키우기 2일차
 print("잔디 키우기");
+int i = 1;, int j = 2;
+print(i+j);
